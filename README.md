@@ -6,7 +6,7 @@
 ## ✏️ Descrição
 Compilado dos códigos de exercícios criados durante o curso de JavaScript disponibiliado pelo [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
 
-## 📘 Módulo A e B
+## 📘 Módulo A 
 
 <h3>1. Conceitos aprendidos: </h3>
 
