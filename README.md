@@ -15,3 +15,16 @@ Apresentação da linguagem, histórico, instalação das ferramentas necessári
 <h3>2. Exercícios finalizados: </h3>
 
 - [x]  Ex001: Olá, mundo
+
+## 📘 Módulo B
+
+<h3>1. Conceitos aprendidos: </h3>
+
+Conceito de variáveis, tratamento de dados, operadores (Aritméticos, atribuição, relacionais, lógicos e ternário).
+
+<h3>2. Exercícios finalizados: </h3>
+
+- [x]  Ex002: Aplicação das variáveis
+- [x]  Ex003: Tratamento de dados (Soma de valores)
+- [x]  Ex004: Utilização do placeholder
+- [x]  Ex005: Utilização do operador ternário (Aprovado/Reprovado)
