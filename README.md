@@ -28,3 +28,16 @@ Conceito de variáveis, tratamento de dados, operadores (Aritméticos, atribuiç
 - [x]  Ex003: Tratamento de dados (Soma de valores)
 - [x]  Ex004: Utilização do placeholder
 - [x]  Ex005: Utilização do operador ternário (Aprovado/Reprovado)
+
+## 📘 Módulo C
+
+<h3>1. Conceitos aprendidos: </h3>
+
+Introdução a DOM (Document Object Model), árvores em DOM, eventos e seletores para interação com o HTML.
+
+<h3>2. Exercícios finalizados: </h3>
+
+- [x]  Ex006: Aplicação dos seletores
+- [x]  Ex007: Código com eventos
+- [x]  Ex008: EventListener
+- [x]  Ex009: Calculadora simples (Soma)
