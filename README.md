@@ -64,7 +64,7 @@ Condições (If/else, switch) simples e aninhadas.
 
 <h3>1. Conceitos aprendidos: </h3>
 
-Estruturas de repetição (laços) utilizando while (Teste lógico no início), do/while (Teste lógico no final) e for ().
+Estruturas de repetição (laços) utilizando while (Teste lógico no início), do/while (Teste lógico no final) e for.
 
 <h3>2. Exercícios finalizados: </h3>
 
@@ -73,4 +73,20 @@ Estruturas de repetição (laços) utilizando while (Teste lógico no início), 
 - [x]  Ex021: Passo simples com for
 - [x]  Ex022: Contador
 - [x]  Ex023: Tabuada (multiplicação)
+
+## 📘 Módulo F
+
+<h3>1. Conceitos aprendidos: </h3>
+
+Variáveis compostas (Vetores) e suas funcionalidades (sort(), indexOf(), e for/in), funções (Parâmetros, chamada, retorno e ação) e introdução a objetos.
+
+<h3>2. Exercícios finalizados: </h3>
+
+- [x]  Ex024: Par/impar
+- [x]  Ex025: Função soma
+- [x]  Ex026: Função duplicar valor
+- [x]  Ex027: Função fatorar
+- [x]  Ex028: Recursividade: fatoração
+- [x]  Ex029: Analisador de números
+- [x]  Ex030: Introdução a objetos
 
