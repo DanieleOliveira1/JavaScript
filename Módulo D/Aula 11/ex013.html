@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>É brasileiro?</title>
+        <style>
+            body{
+                background:rgb(68,125,199);
+                color:white;
+                font: normal 18pt Arial;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>Você é brasileiro?</h1>
+        Informe seu país de origem: <input type="text" name="pais" id="pais" style="text-transform:uppercase">
+        <input type="button" value="Verificar" onClick="nacionalidade()">
+        <div id="res"></div>
+
+        <script>
+
+            function nacionalidade(){
+                console.log('clicou')
+                 var txtv = window.document.querySelector("input#pais");
+                 var res = window.document.querySelector("div#res");
+                 var pais = String(txtv.value);
+
+                    if (pais == "BRASIL") {
+                        res.innerHTML += `<p>Você é <strong>Brasileiro</strong>!</p>`;
+                        } else {
+                        res.innerHTML += `<p>Você é <strong>Estrangeiro</strong>!</p>`;
+                    }
+            }
+            
+        </script>
+    </body>
+</html>
+

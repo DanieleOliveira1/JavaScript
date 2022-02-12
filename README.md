@@ -41,3 +41,21 @@ Introdução a DOM (Document Object Model), árvores em DOM, eventos e seletores
 - [x]  Ex007: Código com eventos
 - [x]  Ex008: EventListener
 - [x]  Ex009: Calculadora simples (Soma)
+
+## 📘 Módulo D
+
+<h3>1. Conceitos aprendidos: </h3>
+
+Condições (If/else, switch) simples e aninhadas.
+
+<h3>2. Exercícios finalizados: </h3>
+
+- [x]  Ex010: Velocidade permitida
+- [x]  Ex011: Nacionalidade
+- [x]  Ex012: Velocidade permitida - criação do site
+- [x]  Ex013: Nacionalidade - desafio 1
+- [x]  Ex014: Voto obrigatório
+- [x]  Ex015: função Date - getHours
+- [x]  Ex016: função Date - getDay
+- [x]  Ex017: Hora do dia
+- [x]  Ex018: Verificador de idade
