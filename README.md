@@ -59,3 +59,18 @@ Condições (If/else, switch) simples e aninhadas.
 - [x]  Ex016: função Date - getDay
 - [x]  Ex017: Hora do dia
 - [x]  Ex018: Verificador de idade
+
+## 📘 Módulo E
+
+<h3>1. Conceitos aprendidos: </h3>
+
+Estruturas de repetição (laços) utilizando while (Teste lógico no início), do/while (Teste lógico no final) e for ().
+
+<h3>2. Exercícios finalizados: </h3>
+
+- [x]  Ex019: Passo simples com while
+- [x]  Ex020: Passo simples utilizando do/while
+- [x]  Ex021: Passo simples com for
+- [x]  Ex022: Contador
+- [x]  Ex023: Tabuada (multiplicação)
+
